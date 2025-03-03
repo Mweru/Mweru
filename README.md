@@ -15,4 +15,7 @@ I'm a passionate data scientist and visual designer who loves to work with **Pyt
 - [LinkedIn](www.linkedin.com/in/joymweru)
 - [Website](https://www.mweruwagitau.wixsite.com)
 
+[![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png)](https://github.com/Mweru)
+
+
 
