@@ -11,11 +11,11 @@ I'm a passionate data scientist and visual designer who loves to work with **Pyt
 - Cloud Computing
 
 
-## 🔗 Find Me Elsewhere
+## 🔗 Connect with me
 - [LinkedIn](www.linkedin.com/in/joymweru)
 - [Website](https://www.mweruwagitau.wixsite.com)
 
-[![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png)](https://github.com/Mweru)
+#[![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png)](https://github.com/Mweru)
 
 
 
