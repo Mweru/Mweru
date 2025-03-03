@@ -1,6 +1,7 @@
 # Hello, I'm Joy Mweru Gitau! 👋
 
-#![Mweru](https://github.com/Mweru/Mweru/blob/main/PHOTO%202.jpg)
+##![Mweru](https://github.com/Mweru/Mweru/blob/main/PHOTO%202.jpg)
+
 <img src="github.com/Mweru/Mweru/blob/main/PHOTO%202.jpg" alt="Mweru" width="300"/>
 
 I'm a passionate data scientist and visual designer who loves to work with **Python**, **SQL**, **PowerBi** and **Tableau**. 
