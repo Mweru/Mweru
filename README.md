@@ -2,7 +2,7 @@
 
 ![Mweru](https://github.com/Mweru/Mweru/blob/main/g-photo.jpg)
 
-🌟 I'm a passionate Data Scientist and Visual Designer with a background in Business Technology, I combine technical skills with a passion for visual data storytelling. By blending creativity with statistical analysis, I help turn complex problems into clear, actionable insights. My focus is on creating value through thoughtful design and making informed decisions. I'm excited to connect and explore opportunities to make a real impact together. 
+🌟 I'm a passionate Data Scientist and Visual Designer with a background in Business Technology. I combine technical skills with a passion for visual data storytelling by blending creativity with statistical analysis, I help turn complex problems into clear, actionable insights. My focus is on creating value through thoughtful design and making informed decisions. I'm excited to connect and explore opportunities to make a real impact together. 
 
 ## 🚀 Skills
 
