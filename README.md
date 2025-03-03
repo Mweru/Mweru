@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Joy Mweru Gitau! 👋
 
-<!--
-**Mweru/Mweru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate data scientist and visual designer who loves to work with **Python**, **SQL**, **PowerBi** and **Tableau**. 
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Languages: Python, SQL
+- Tools: Git, VS Code, Jupyter Notebooks, Adobe Illustrator, PowerBi and Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Machine Learning
+- Cloud Computing
+
+
+## 🔗 Find Me Elsewhere
+- [LinkedIn](www.linkedin.com/in/joymweru)
+- [Website](https://www.mweruwagitau.wixsite.com)
+
+
