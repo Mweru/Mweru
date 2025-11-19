@@ -6,7 +6,7 @@
 
 ## 🚀 Skills
 
-Data Manipulation, Data Cleaning, Data Preprocessing, Data visualization, Graphic desigbn and  Web Design.
+Data Manipulation, Data Cleaning, Data Preprocessing, Data visualization, Graphic design and  Web Design.
 - Languages: Python, SQL
 - Tools: Git, VS Code, Jupyter Notebooks, Adobe Illustrator, Canva, PowerBi, Tableau, Wordpress and Excel/spreadsheets. 
 
