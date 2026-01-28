@@ -6,7 +6,7 @@
 
 ## 🚀 Skills
 
-Data Manipulation, Data Cleaning, Data Preprocessing, Data visualization, Graphic design and  Web Design.
+Research, Data extraction, manipulation, cleaning, preprocessing and visualization, Advanced analytics, Graphic & Web Design.
 - Languages: Python, SQL
 - Tools: Git, VS Code, Jupyter Notebooks, Adobe Illustrator, Canva, PowerBi, Tableau, Wordpress and Excel/spreadsheets. 
 
@@ -17,9 +17,9 @@ Data Manipulation, Data Cleaning, Data Preprocessing, Data visualization, Graphi
 
 ## 🔗 Connect with me
 
-[![GitHub](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/Mweru)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mweru-gitau)
-[Website](https://www.mweruwagitau.wixsite.com)
+
+[![Website](https://www.mweruwagitau.wixsite.com)
 
 
 
